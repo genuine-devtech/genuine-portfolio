@@ -3,7 +3,7 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
   <header>
     <nav>
-      <h1> Genuine Espiritu</h1>
+      <h1> Genuine</h1>
 
       <ul> 
         <li><a href="#">Home</a></li>
